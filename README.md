@@ -1,8 +1,8 @@
-## Olá eu sou o Mayk Kennedy 👋
+## Olá eu sou o Mayk Kennedy e é um prazer te ver por aqui 😁
 
 - 🔭 Trabalhando em uma area diferente da programação.
 - 🌱 Estudando para ser desenvolvedor FRONTEND
-- 📫 Minhas redes socias estão por aqui 👇👇
+- 📫 Minhas redes socias estão aqui pra baixo 👇👇
 
 
 <div>
