@@ -1,8 +1,8 @@
 ## Olá eu sou o Mayk Kennedy 👋
 
-- 🔭 Atualmente trabalhando em uma area diferente da programação.
+- 🔭 Trabalhando em uma area diferente da programação.
 - 🌱 Estudando para ser desenvolvedor FRONTEND
-- 📫 Voçê pode me achar pelo e-mail: maykkennedy@gmail.com ou no linkdin: www.linkedin.com/in/maykkennedy
+- 📫 Minhas redes socias estão por aqui 👇👇
 
 
 <div>
